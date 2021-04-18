@@ -1,8 +1,9 @@
-package programmers.month10.week2;
+package Programmers;
+
 
 import java.util.Scanner;
 
-public class Years2016 {
+public class _2016년 {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

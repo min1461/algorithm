@@ -1,4 +1,5 @@
-package programmers.month10.week2;
+package Programmers;
+
 
 public class WhosM1 {
 	public static void main(String[] args) {

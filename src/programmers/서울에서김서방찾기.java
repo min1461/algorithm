@@ -1,6 +1,7 @@
-package programmers.month10.week2;
+package Programmers;
 
-public class FindKim {
+
+public class 서울에서김서방찾기 {
 	
 	public static void main(String[] args) {
 		String[] aa = {"Jane","Kim"};

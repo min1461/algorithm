@@ -1,4 +1,5 @@
-package programmers.month10.week2;
+package Programmers;
+
 
 public class 문자열내마음대로정렬하기 {
     public String[] solution(String[] strings, int n) {

@@ -1,14 +1,15 @@
-package programmers.month10.week2;
+package Programmers;
+
 
 import java.util.*;
 
-public class SameNum {
+public class 같은숫자는싫어 {
 	public static void main(String[] args) {
 
 		int[] arr = { 1, 1, 3, 3, 0, 1, 1 };
 		
 		int[] arr2 = {4,4,4,3,3};
-		SameNum sn = new SameNum();
+		같은숫자는싫어 sn = new 같은숫자는싫어();
 		int[] result = sn.solution(arr);
 
 		System.out.println("길이는" + result.length);
